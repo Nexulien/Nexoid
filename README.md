@@ -1,5 +1,5 @@
-> ![WARNING]
-> Nexoid is most likely abandoned.
+> [!WARNING]  
+> Nexoid is most likely discontinued.
 
 # Vendroid
 
